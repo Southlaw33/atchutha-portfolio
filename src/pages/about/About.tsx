@@ -1,4 +1,4 @@
-import './About.css';
+import './about.css';
 
 export default function About() {
   return (
@@ -19,14 +19,21 @@ export default function About() {
         <div className="about-card">
           <h3>🧠 Generative AI Enthusiast</h3>
           <p>
-            I'm deeply curious about the future of Generative AI. From large language models to diffusion-based image generation, I'm always experimenting with new tools and frameworks that push the boundaries of what's possible.
+            I'm deeply curious about the future of Generative AI. From large language models to image generation, I constantly experiment with new tools that push boundaries.
           </p>
         </div>
 
         <div className="about-card">
           <h3>🎮 Gamer & Creator</h3>
           <p>
-            In my downtime, you'll find me diving into immersive video games, strumming chords on my guitar, or cycling through scenic routes. These hobbies fuel my creativity and keep my problem-solving instincts sharp.
+            When I'm not coding, I unwind by playing video games, cycling through scenic trails, or playing the guitar. These hobbies inspire creativity and fuel my passion for tech.
+          </p>
+        </div>
+
+        <div className="about-card">
+          <h3>📌 Club Involvement</h3>
+          <p>
+            I proudly serve as the <strong>Event Management Lead</strong> at <strong>IEEE SIT SB</strong>, where I plan and execute engaging tech events and workshops to foster learning and innovation within our college community.
           </p>
         </div>
       </div>
