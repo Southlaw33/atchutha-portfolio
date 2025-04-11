@@ -1,4 +1,4 @@
-import './interests.css';
+import './Interests.css';
 
 export default function Interests() {
   return (
