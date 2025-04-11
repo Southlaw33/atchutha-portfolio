@@ -1,4 +1,4 @@
-import './workexperience.css';
+import "./WorkExperience.css";
 
 export default function WorkExperience() {
   return (
@@ -12,8 +12,13 @@ export default function WorkExperience() {
         </div>
         <p className="work-date">Feb 2025 - Present</p>
         <ul className="work-responsibilities">
-          <li>Working with React, Node.js, TypeScript, Hono, Supabase and Microsoft Azure.</li>
-          <li>Contributing to design and implementation of Hackernews-server</li>
+          <li>
+            Working with React, Node.js, TypeScript, Hono, Supabase and
+            Microsoft Azure.
+          </li>
+          <li>
+            Contributing to design and implementation of Hackernews-server
+          </li>
           <li>Working towards implementing an AI project "Second Brain".</li>
         </ul>
       </div>
