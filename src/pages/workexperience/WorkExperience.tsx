@@ -1,5 +1,5 @@
 import "./WorkExperience.css";
-
+//this is for work exp
 export default function WorkExperience() {
   return (
     <section className="work-section">
