@@ -1,13 +1,26 @@
 .footer {
-    background-color: #181818;
-    padding: 2rem;
-    text-align: center;
-    font-size: 0.9rem;
-    color: #aaa;
-  }
-  
-  .footer .socials a {
-    margin: 0 0.5rem;
-    color: #ff4fd8;
-  }
-  
+  padding: 2rem;
+  background-color: #0f0f0f;
+  color: white;
+  text-align: center;
+}
+
+.footer p {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.socials a {
+  color: #ff8c00;
+  transition: color 0.3s ease;
+}
+
+.socials a:hover {
+  color: #ffa94d;
+}
